@@ -33,6 +33,6 @@ This query can be used to detect the following attack techniques and tactics ([s
 | Malware, component |  |  |
 | Ransomware |  |  |
 
-## Contributor info
+###Contributor info
 
 **Contributor:** Microsoft 365 Defender team
